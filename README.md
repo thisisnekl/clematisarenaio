@@ -1,0 +1,11 @@
+## Roadmap
+
+- phase 1
+- phase 2
+## Ideas
+
+1. one idea
+2. another idea
+- reading list
+- references
+- links
